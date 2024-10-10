@@ -1,21 +1,39 @@
 body {
     background-color: #fefefd;
-  }
-  h1 {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h1 {
     color: rgb(51, 49, 46);
     font-family: "Times New Roman", Times, serif;
     text-align: center;
     text-decoration: none;
 
-  }
-  p {
+}
+
+h2 {
+    color: rgb(51, 49, 46);
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    text-decoration: none;
+}
+
+p {
     color: rgb(51, 49, 46);
     font-family: "Times New Roman", Times, serif;
     text-align: center;
     font-size: 17px;
     line-height: 1.4;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+a {
+  color: rgb(51, 49, 46);
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    line-height: 1.4;
 }
 
 nav {
