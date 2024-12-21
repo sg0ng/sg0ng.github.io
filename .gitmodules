@@ -1,3 +1,9 @@
 [submodule "market-cappers"]
 	path = market-cappers
 	url = https://github.com/CS196Illinois/Group9-FA23
+[submodule "main-project-team-17"]
+	path = main-project-team-17
+	url = https://github.com/CS222-UIUC/main-project-team-17
+[submodule "Drive-Doctor"]
+	path = Drive-Doctor
+	url = https://github.com/sg0ng/Drive-Doctor
