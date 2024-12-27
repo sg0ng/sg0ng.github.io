@@ -47,6 +47,14 @@ nav a{
     text-decoration: none;
 }
 
+nav a:hover, p:hover {
+    color: rgb(253, 247, 238);
+}
+
+p:link {
+    color: rgb(241, 229, 210);
+}
+
 footer {
     text-align: center;
     background-color: #303341;
