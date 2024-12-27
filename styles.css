@@ -4,19 +4,12 @@ body {
     padding-right: 10%;
 }
 
-h1 {
+h1, h2 {
     color: rgb(241, 229, 210);
     font-family: 'Arial Black', 'Arial Bold', sans-serif;
     text-align: center;
     text-decoration: none;
 
-}
-
-h2 {
-    color: rgb(241, 229, 210);
-    font-family: 'Arial Black', 'Arial Bold', sans-serif;
-    text-align: center;
-    text-decoration: none;
 }
 
 p {
@@ -49,6 +42,7 @@ nav a{
 
 nav a:hover, p:hover {
     color: rgb(253, 247, 238);
+    transition: color 0.3s ease;
 }
 
 p:link {
