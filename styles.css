@@ -1,27 +1,27 @@
 body {
-    background-color: #fefefd;
+    background-color: #12131b;
     padding-left: 10%;
     padding-right: 10%;
 }
 
 h1 {
-    color: rgb(51, 49, 46);
-    font-family: "Times New Roman", Times, serif;
+    color: rgb(241, 229, 210);
+    font-family: 'Arial Black', 'Arial Bold', sans-serif;
     text-align: center;
     text-decoration: none;
 
 }
 
 h2 {
-    color: rgb(51, 49, 46);
-    font-family: "Times New Roman", Times, serif;
+    color: rgb(241, 229, 210);
+    font-family: 'Arial Black', 'Arial Bold', sans-serif;
     text-align: center;
     text-decoration: none;
 }
 
 p {
-    color: rgb(51, 49, 46);
-    font-family: "Times New Roman", Times, serif;
+    color: rgb(241, 229, 210);
+    font-family: 'Arial Black', 'Arial Bold', sans-serif;
     text-align: left;
     font-size: 17px;
     line-height: 1.4;
@@ -30,8 +30,8 @@ p {
 }
 
 a {
-  color: rgb(51, 49, 46);
-    font-family: "Times New Roman", Times, serif;
+  color: rgb(241, 229, 210);
+    font-family: 'Arial Black', 'Arial Bold', sans-serif;
     text-align: center;
     line-height: 1.4;
 }
@@ -41,7 +41,7 @@ nav {
 }
 
 nav a{
-    color: rgb(51, 49, 46);
+    color: #1f212c;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -49,5 +49,5 @@ nav a{
 
 footer {
     text-align: center;
-    background-color: #d0d0d0;
+    background-color: #1f212c;
 }
