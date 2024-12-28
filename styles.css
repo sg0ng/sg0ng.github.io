@@ -40,7 +40,7 @@ nav a{
     text-decoration: none;
 }
 
-nav a:hover, p:hover {
+nav a:hover, h2:hover {
     color: rgb(252, 252, 252);
     transition: color 0.3s ease;
 }
