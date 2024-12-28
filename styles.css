@@ -49,6 +49,10 @@ p:link {
     color: rgb(241, 229, 210);
 }
 
+section {
+    margin-bottom: 2rem;
+}
+
 footer {
     text-align: center;
     background-color: #303341;
